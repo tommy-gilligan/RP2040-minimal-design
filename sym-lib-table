@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name MCU_RaspberryPi_RP2040)(type Legacy)(uri ${KIPRJMOD}/MCU_RaspberryPi_RP2040.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "${KIPRJMOD}/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "RP2040_minimal-rescue")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal-rescue.kicad_sym")(options "")(descr ""))
 )
